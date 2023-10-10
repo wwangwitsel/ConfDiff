@@ -4,12 +4,12 @@ This repository is the official implementation of the PLDA approach of the paper
 
 
 ## Requirements:
-Python 3.6.13
-numpy 1.19.2
-Pytorch 1.7.1
-torchvision 0.8.2
-pandas 1.1.5
-scipy 1.5.4
+- Python 3.6.13
+- numpy 1.19.2
+- Pytorch 1.7.1
+- torchvision 0.8.2
+- pandas 1.1.5
+- scipy 1.5.4
 
 
 ## Arguments:
@@ -36,10 +36,9 @@ python main.py -mo mlp -ds mnist -uci 0 -lr 1e-3 -wd 1e-5 -gpu 0 -ep 200 -seed 0
 ## Citation
 ```
 @inproceedings{wang2023binary,
-    author = {Wang, W. and Feng, L. and Jiang, Y. and Niu, G. and Zhang, M.-L. and Sugiyama, M.},
-    title = {Binary Classification with Confidence Difference},
+    author = {Wang, Wei and Feng, Lei and Jiang, Yuchen and Niu, Gang and Zhang, Min-Ling and Sugiyama, Masashi},
+    title = {Binary classification with confidence difference},
     booktitle = {Advances in Neural Information Processing Systems 36},
-    year = {2023},
-    pages = {in press}
+    year = {2023}
 }
 ```
