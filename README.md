@@ -1,6 +1,6 @@
 # ConfDiff
 
-This repository is the official implementation of the PLDA approach of the paper "Binary Classification with Confidence Difference" and technical details of this approach can be found in the paper.
+This repository is the official implementation of the paper "Binary Classification with Confidence Difference" and technical details of this approach can be found in the paper.
 
 
 ## Requirements:
