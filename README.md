@@ -40,5 +40,6 @@ python main.py -mo mlp -ds mnist -uci 0 -lr 1e-3 -wd 1e-5 -gpu 0 -ep 200 -seed 0
     title = {Binary classification with confidence difference},
     booktitle = {Advances in Neural Information Processing Systems 36},
     year = {2023}
+    pages = {5936--5960}
 }
 ```
